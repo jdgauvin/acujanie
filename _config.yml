@@ -4,6 +4,17 @@ url: "https://acujanie.com"
 baseurl: ""
 lang: "fr-CA"
 
+# SEO
+logo: /assets/images/logo_sun.png
+image: /assets/images/logo_sun.png
+twitter:
+  card: summary
+social:
+  name: Acupuncture Janie Couture
+  links:
+    - https://www.facebook.com/JanieCoutureAcupuncture
+google_site_verification: ""
+
 permalink: /:year/:month/:day/:title/
 
 defaults:
