@@ -14,9 +14,9 @@
 
 .hero-cactus-mobile {
   display: none;
-  width: 80px;
+  width: 110px;
   height: auto;
-  margin: $spacing-lg auto 0;
+  margin: $spacing-sm auto 0;
 
   @media (max-width: $breakpoint-lg) {
     display: block;
