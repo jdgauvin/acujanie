@@ -1,0 +1,64 @@
+// Colors - Desert/Zen Palette
+$color-cream: #FDF6E9;
+$color-cream-dark: #F5ECD8;
+$color-sand: #E8DCC8;
+$color-gold: #C9A66B;
+$color-gold-dark: #A8864D;
+$color-brown: #7A6A5A;
+$color-brown-dark: #5A4A3A;
+$color-green: #6B8E5D;
+$color-green-dark: #4A6D3D;
+$color-text: #3D3D3D;
+$color-text-light: #666666;
+$color-white: #FFFFFF;
+
+// Typography
+$font-heading: 'Playfair Display', Georgia, serif;
+$font-body: 'Lato', -apple-system, BlinkMacSystemFont, sans-serif;
+
+$font-size-base: 16px;
+$font-size-sm: 0.875rem;
+$font-size-lg: 1.125rem;
+$font-size-xl: 1.25rem;
+$font-size-2xl: 1.5rem;
+$font-size-3xl: 2rem;
+$font-size-4xl: 2.5rem;
+$font-size-5xl: 3rem;
+
+$line-height-base: 1.7;
+$line-height-heading: 1.3;
+
+// Spacing
+$spacing-xs: 0.5rem;
+$spacing-sm: 1rem;
+$spacing-md: 1.5rem;
+$spacing-lg: 2rem;
+$spacing-xl: 3rem;
+$spacing-2xl: 4rem;
+$spacing-3xl: 6rem;
+
+// Layout
+$container-max: 1200px;
+$container-narrow: 800px;
+
+// Breakpoints
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+// Transitions
+$transition-fast: 0.15s ease;
+$transition-base: 0.3s ease;
+$transition-slow: 0.5s ease;
+
+// Shadows
+$shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.05);
+$shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+$shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.1);
+
+// Border radius
+$radius-sm: 4px;
+$radius-md: 8px;
+$radius-lg: 16px;
+$radius-full: 50%;

@@ -1,0 +1,228 @@
+// Buttons
+.btn {
+  display: inline-block;
+  padding: $spacing-sm $spacing-lg;
+  font-family: $font-body;
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid transparent;
+  border-radius: $radius-md;
+  cursor: pointer;
+  transition: all $transition-base;
+
+  &:focus-visible {
+    outline-offset: 4px;
+  }
+}
+
+.btn-primary {
+  background-color: $color-gold;
+  color: $color-white;
+  border-color: $color-gold;
+
+  &:hover {
+    background-color: $color-gold-dark;
+    border-color: $color-gold-dark;
+    color: $color-white;
+  }
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: $color-gold-dark;
+  border-color: $color-gold;
+
+  &:hover {
+    background-color: $color-gold;
+    color: $color-white;
+  }
+}
+
+.btn-nav {
+  padding: $spacing-xs $spacing-md;
+  background-color: $color-gold;
+  color: $color-white;
+  border-radius: $radius-md;
+
+  &:hover {
+    background-color: $color-gold-dark;
+    color: $color-white;
+  }
+}
+
+// Cards
+.card {
+  background-color: $color-white;
+  border-radius: $radius-lg;
+  padding: $spacing-lg;
+  box-shadow: $shadow-sm;
+  transition: box-shadow $transition-base, transform $transition-base;
+
+  &:hover {
+    box-shadow: $shadow-md;
+    transform: translateY(-2px);
+  }
+}
+
+.card-icon {
+  width: 60px;
+  height: 60px;
+  margin-bottom: $spacing-md;
+  color: $color-gold;
+}
+
+.card-title {
+  font-size: $font-size-xl;
+  margin-bottom: $spacing-xs;
+}
+
+// Blog card
+.blog-card {
+  background-color: $color-white;
+  border-radius: $radius-lg;
+  overflow: hidden;
+  box-shadow: $shadow-sm;
+  transition: box-shadow $transition-base, transform $transition-base;
+
+  &:hover {
+    box-shadow: $shadow-md;
+    transform: translateY(-4px);
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.blog-card-content {
+  padding: $spacing-md;
+}
+
+.blog-card-date {
+  font-size: $font-size-sm;
+  color: $color-brown;
+  margin-bottom: $spacing-xs;
+}
+
+.blog-card-title {
+  font-size: $font-size-lg;
+  color: $color-brown-dark;
+  margin-bottom: $spacing-xs;
+  transition: color $transition-fast;
+
+  .blog-card:hover & {
+    color: $color-gold-dark;
+  }
+}
+
+.blog-card-excerpt {
+  font-size: $font-size-sm;
+  color: $color-text-light;
+  line-height: 1.6;
+}
+
+// Service list
+.service-list {
+  list-style: none;
+  padding: 0;
+  columns: 2;
+  column-gap: $spacing-lg;
+
+  @media (max-width: $breakpoint-md) {
+    columns: 1;
+  }
+
+  li {
+    position: relative;
+    padding-left: $spacing-md;
+    margin-bottom: $spacing-sm;
+    break-inside: avoid;
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0.5em;
+      width: 8px;
+      height: 8px;
+      background-color: $color-gold;
+      border-radius: $radius-full;
+    }
+  }
+}
+
+// Contact info
+.contact-item {
+  display: flex;
+  align-items: flex-start;
+  gap: $spacing-sm;
+  margin-bottom: $spacing-md;
+
+  svg {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    color: $color-gold;
+    margin-top: 2px;
+  }
+}
+
+// Booking widget
+.booking-container {
+  background-color: $color-white;
+  border-radius: $radius-lg;
+  padding: $spacing-sm;
+  box-shadow: $shadow-md;
+  overflow: hidden;
+
+  iframe {
+    width: 100%;
+    min-height: 600px;
+    border: none;
+    border-radius: $radius-md;
+
+    @media (max-width: $breakpoint-md) {
+      min-height: 500px;
+    }
+  }
+}
+
+// Training/credentials list
+.credentials-list {
+  list-style: none;
+  padding: 0;
+
+  li {
+    display: flex;
+    gap: $spacing-sm;
+    padding: $spacing-sm 0;
+    border-bottom: 1px solid $color-sand;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  .year {
+    font-weight: 700;
+    color: $color-gold-dark;
+    min-width: 60px;
+  }
+}
+
+// Enso decoration
+.enso-decoration {
+  position: absolute;
+  opacity: 0.1;
+  pointer-events: none;
+  z-index: 0;
+
+  svg {
+    width: 200px;
+    height: 200px;
+    color: $color-gold;
+  }
+}

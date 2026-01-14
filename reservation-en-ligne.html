@@ -1,0 +1,81 @@
+---
+layout: default
+title: Réservation en ligne | Prendre rendez-vous
+description: Prenez rendez-vous en ligne avec Janie Couture, acupuncteure à Québec. Réservation simple et rapide pour votre consultation d'acupuncture.
+permalink: /reservation-en-ligne/
+---
+
+<header class="page-header">
+  <div class="container">
+    <h1>Réservation en ligne</h1>
+    <p class="subtitle">Prenez rendez-vous en quelques clics</p>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container">
+    <div class="grid grid-2" style="gap: 3rem;">
+      <div>
+        <h2>Réservez votre consultation</h2>
+        <p>Utilisez le calendrier ci-dessous pour choisir une date et une heure qui vous conviennent.</p>
+
+        <div class="card mt-lg">
+          <h3>Informations pratiques</h3>
+          <ul style="list-style: none; padding: 0;">
+            <li class="contact-item">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="12" cy="12" r="10"/>
+                <polyline points="12 6 12 12 16 14"/>
+              </svg>
+              <span><strong>Durée:</strong> 1 heure</span>
+            </li>
+            <li class="contact-item">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>
+              </svg>
+              <span><strong>Tarif:</strong> {{ site.contact.price }}</span>
+            </li>
+            <li class="contact-item">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/>
+              </svg>
+              <span><strong>Lieu:</strong> {{ site.contact.address }}</span>
+            </li>
+          </ul>
+        </div>
+
+        <div class="mt-lg">
+          <h3>Autres moyens de réserver</h3>
+          <p>Vous préférez nous contacter directement?</p>
+          <div class="contact-item">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/>
+            </svg>
+            <div>
+              <a href="tel:{{ site.contact.phone }}">{{ site.contact.phone }}</a><br>
+              <small>Téléphone ou texto</small>
+            </div>
+          </div>
+          <div class="contact-item">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/>
+            </svg>
+            <div>
+              <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <div class="booking-container">
+          <iframe
+            src="{{ site.booking_url }}"
+            loading="lazy"
+            title="Calendrier de réservation">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

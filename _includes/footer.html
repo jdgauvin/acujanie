@@ -1,0 +1,61 @@
+<footer class="site-footer">
+  <div class="footer-top">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <svg class="enso" viewBox="0 0 100 100" width="60" height="60" aria-hidden="true">
+            <path d="M50 5 C25 5 5 25 5 50 C5 75 25 95 50 95 C75 95 95 75 95 50 C95 35 85 20 70 12"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="8"
+                  stroke-linecap="round"/>
+          </svg>
+          <div>
+            <strong>Acupuncture Janie Couture</strong>
+            <p>Membre de l'Ordre des acupuncteurs du Québec</p>
+          </div>
+        </div>
+
+        <div class="footer-contact">
+          <h4>Contact</h4>
+          <ul>
+            <li>
+              <a href="tel:{{ site.contact.phone }}">{{ site.contact.phone }}</a>
+            </li>
+            <li>
+              <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>
+            </li>
+            <li>
+              {{ site.contact.address }}<br>
+              {{ site.contact.city }}
+            </li>
+          </ul>
+        </div>
+
+        <div class="footer-hours">
+          <h4>Heures d'ouverture</h4>
+          <p>{{ site.contact.hours }}</p>
+          <p class="price">Consultation: {{ site.contact.price }} / heure</p>
+        </div>
+
+        <div class="footer-cta">
+          <h4>Prenez rendez-vous</h4>
+          <a href="/reservation-en-ligne/" class="btn btn-primary">Réserver en ligne</a>
+          <div class="social">
+            <a href="{{ site.contact.facebook }}" target="_blank" rel="noopener" aria-label="Facebook">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container">
+      <p>&copy; {{ site.time | date: '%Y' }} Acupuncture Janie Couture. Tous droits réservés.</p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,32 @@
+<header class="site-header">
+  <div class="container">
+    <a href="/" class="logo" aria-label="Accueil">
+      <svg class="enso" viewBox="0 0 100 100" width="50" height="50" aria-hidden="true">
+        <path d="M50 5 C25 5 5 25 5 50 C5 75 25 95 50 95 C75 95 95 75 95 50 C95 35 85 20 70 12"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="8"
+              stroke-linecap="round"/>
+      </svg>
+      <span class="logo-text">
+        <span class="logo-title">Acupuncture</span>
+        <span class="logo-name">Janie Couture</span>
+      </span>
+    </a>
+
+    <button class="menu-toggle" aria-label="Menu" aria-expanded="false">
+      <span class="hamburger"></span>
+    </button>
+
+    <nav class="main-nav" id="main-nav">
+      <ul>
+        <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Accueil</a></li>
+        <li><a href="/votre-acupuncteure/" {% if page.url == "/votre-acupuncteure/" %}class="active"{% endif %}>Votre acupuncteure</a></li>
+        <li><a href="/les-bienfaits-de-lacupuncture/" {% if page.url == "/les-bienfaits-de-lacupuncture/" %}class="active"{% endif %}>Bienfaits</a></li>
+        <li><a href="/blogue/" {% if page.url contains "/blogue" or page.layout == "post" %}class="active"{% endif %}>Blogue</a></li>
+        <li><a href="/contact/" {% if page.url == "/contact/" %}class="active"{% endif %}>Contact</a></li>
+        <li><a href="/reservation-en-ligne/" class="btn btn-nav">Rendez-vous</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

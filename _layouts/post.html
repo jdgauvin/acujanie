@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+  <header class="post-header">
+    <div class="container">
+      <h1 itemprop="headline">{{ page.title }}</h1>
+      <div class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: "%d %B %Y" }}
+        </time>
+        <span class="author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+          par <span itemprop="name">{{ page.author | default: site.author | default: "Janie Couture" }}</span>
+        </span>
+      </div>
+    </div>
+  </header>
+
+  <div class="post-content container" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <footer class="post-footer">
+    <div class="container">
+      <div class="post-cta">
+        <h3>Vous avez des questions?</h3>
+        <p>Prenez rendez-vous pour une consultation personnalisée.</p>
+        <a href="/reservation-en-ligne/" class="btn btn-primary">Prendre rendez-vous</a>
+      </div>
+
+      <nav class="post-nav">
+        {% if page.previous.url %}
+        <a href="{{ page.previous.url }}" class="prev">
+          &larr; {{ page.previous.title | truncate: 40 }}
+        </a>
+        {% endif %}
+        {% if page.next.url %}
+        <a href="{{ page.next.url }}" class="next">
+          {{ page.next.title | truncate: 40 }} &rarr;
+        </a>
+        {% endif %}
+      </nav>
+    </div>
+  </footer>
+</article>

@@ -1,0 +1,218 @@
+---
+layout: default
+title: Acupuncture Janie Couture | Clinique d'acupuncture à Québec
+description: Clinique d'acupuncture à Québec, Charlesbourg-Beauport. Traitements pour douleurs, stress, allergies, fertilité, grossesse et plus. Janie Couture, Ac.
+---
+
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-text">
+        <h1>Retrouvez votre équilibre naturel</h1>
+        <p>L'acupuncture est une médecine holistique qui évalue les aspects physiques, mentaux et émotionnels pour vous accompagner vers un mieux-être durable.</p>
+        <div class="hero-cta">
+          <a href="/reservation-en-ligne/" class="btn btn-primary">Prendre rendez-vous</a>
+          <a href="/les-bienfaits-de-lacupuncture/" class="btn btn-secondary">Découvrir les bienfaits</a>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <svg class="enso-large" viewBox="0 0 100 100" aria-hidden="true">
+          <path d="M50 5 C25 5 5 25 5 50 C5 75 25 95 50 95 C75 95 95 75 95 50 C95 35 85 20 70 12"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="6"
+                stroke-linecap="round"/>
+        </svg>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Qu'est-ce que l'acupuncture?</h2>
+      <p>Une pratique millénaire reconnue pour son efficacité</p>
+    </div>
+
+    <div class="grid grid-2" style="align-items: center;">
+      <div>
+        <p>L'acupuncture est l'une des cinq branches de la médecine chinoise, aux côtés du tuina (massage), du qigong (exercices), de la pharmacopée (herbes médicinales) et de la diététique.</p>
+        <p>C'est une <strong>médecine holistique</strong> qui évalue les aspects physiques, mentaux et émotionnels de chaque personne pour offrir un traitement personnalisé.</p>
+        <p>Les traitements stimulent la circulation du Qi (énergie vitale) à travers les méridiens du corps à l'aide de fines aiguilles stériles, influençant ainsi le système nerveux central, les fonctions sensorielles et motrices, ainsi que le système nerveux autonome.</p>
+      </div>
+      <div class="card text-center">
+        <h3>Consultation</h3>
+        <p class="price" style="font-size: 2.5rem; color: #C9A66B; font-weight: 700; margin: 1rem 0;">75$</p>
+        <p>Première consultation et suivi (1 heure)</p>
+        <p style="font-size: 0.875rem; color: #666;">Reçus pour assurances disponibles<br>CNESST • SAAQ • IVAC • Anciens combattants</p>
+        <a href="/reservation-en-ligne/" class="btn btn-primary mt-md">Réserver</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-header">
+      <h2>Raisons de consulter</h2>
+      <p>L'acupuncture peut vous aider dans de nombreuses situations</p>
+    </div>
+
+    <div class="benefits-grid">
+      <div class="benefit-card">
+        <h3>Douleurs</h3>
+        <ul>
+          <li>Arthrite et arthrose</li>
+          <li>Maux de dos et sciatique</li>
+          <li>Migraines et céphalées</li>
+          <li>Tendinites et bursites</li>
+          <li>Blessures sportives</li>
+        </ul>
+      </div>
+
+      <div class="benefit-card">
+        <h3>Stress et émotions</h3>
+        <ul>
+          <li>Anxiété et nervosité</li>
+          <li>Insomnie</li>
+          <li>Fatigue chronique</li>
+          <li>Dépression</li>
+          <li>Épuisement professionnel</li>
+        </ul>
+      </div>
+
+      <div class="benefit-card">
+        <h3>Santé des femmes</h3>
+        <ul>
+          <li>Troubles menstruels</li>
+          <li>Fertilité</li>
+          <li>Grossesse et post-partum</li>
+          <li>Ménopause</li>
+          <li>Syndrome prémenstruel</li>
+        </ul>
+      </div>
+
+      <div class="benefit-card">
+        <h3>Système digestif</h3>
+        <ul>
+          <li>Reflux gastrique</li>
+          <li>Constipation</li>
+          <li>Syndrome du côlon irritable</li>
+          <li>Nausées</li>
+          <li>Ballonnements</li>
+        </ul>
+      </div>
+
+      <div class="benefit-card">
+        <h3>Système respiratoire</h3>
+        <ul>
+          <li>Allergies saisonnières</li>
+          <li>Asthme</li>
+          <li>Sinusite</li>
+          <li>Bronchite</li>
+          <li>Rhumes fréquents</li>
+        </ul>
+      </div>
+
+      <div class="benefit-card">
+        <h3>Autres conditions</h3>
+        <ul>
+          <li>Problèmes de peau</li>
+          <li>Acouphènes</li>
+          <li>Hypertension</li>
+          <li>Sevrage tabagique</li>
+          <li>Gestion du poids</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="text-center mt-xl">
+      <a href="/les-bienfaits-de-lacupuncture/" class="btn btn-secondary">Voir tous les bienfaits</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Articles récents</h2>
+      <p>Conseils et informations sur l'acupuncture et la médecine chinoise</p>
+    </div>
+
+    <div class="blog-grid">
+      {% for post in site.posts limit:3 %}
+      <article class="blog-card">
+        <a href="{{ post.url }}">
+          <div class="blog-card-content">
+            <time class="blog-card-date">{{ post.date | date: "%d %B %Y" }}</time>
+            <h3 class="blog-card-title">{{ post.title }}</h3>
+            <p class="blog-card-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
+          </div>
+        </a>
+      </article>
+      {% endfor %}
+    </div>
+
+    <div class="text-center mt-xl">
+      <a href="/blogue/" class="btn btn-secondary">Voir tous les articles</a>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="grid grid-2" style="align-items: center;">
+      <div>
+        <h2>Prenez rendez-vous</h2>
+        <p>Je vous accueille dans un environnement calme et apaisant, propice à la détente et à la guérison.</p>
+
+        <div class="contact-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
+            <circle cx="12" cy="10" r="3"/>
+          </svg>
+          <div>
+            <strong>{{ site.contact.address }}</strong><br>
+            {{ site.contact.city }}<br>
+            <small>({{ site.contact.area }})</small>
+          </div>
+        </div>
+
+        <div class="contact-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/>
+          </svg>
+          <div>
+            <a href="tel:{{ site.contact.phone }}">{{ site.contact.phone }}</a><br>
+            <small>Téléphone ou texto</small>
+          </div>
+        </div>
+
+        <div class="contact-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+            <line x1="16" y1="2" x2="16" y2="6"/>
+            <line x1="8" y1="2" x2="8" y2="6"/>
+            <line x1="3" y1="10" x2="21" y2="10"/>
+          </svg>
+          <div>
+            <strong>{{ site.contact.hours }}</strong>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <div class="contact-map">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2728.0!2d-71.2437!3d46.8615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb897e3c0000001%3A0x0!2s1480%20Boulevard%20Louis-XIV%2C%20Qu%C3%A9bec%2C%20QC%20G2L%201M3!5e0!3m2!1sfr!2sca!4v1600000000000!5m2!1sfr!2sca"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Carte - Clinique d'acupuncture Janie Couture">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

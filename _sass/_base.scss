@@ -1,0 +1,96 @@
+// Reset
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: $font-size-base;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: $font-body;
+  font-size: 1rem;
+  line-height: $line-height-base;
+  color: $color-text;
+  background-color: $color-cream;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Typography
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-heading;
+  font-weight: 600;
+  line-height: $line-height-heading;
+  color: $color-brown-dark;
+  margin-bottom: $spacing-sm;
+}
+
+h1 { font-size: $font-size-4xl; }
+h2 { font-size: $font-size-3xl; }
+h3 { font-size: $font-size-2xl; }
+h4 { font-size: $font-size-xl; }
+h5 { font-size: $font-size-lg; }
+h6 { font-size: $font-size-base; }
+
+@media (max-width: $breakpoint-md) {
+  h1 { font-size: $font-size-3xl; }
+  h2 { font-size: $font-size-2xl; }
+  h3 { font-size: $font-size-xl; }
+}
+
+p {
+  margin-bottom: $spacing-sm;
+}
+
+a {
+  color: $color-gold-dark;
+  text-decoration: none;
+  transition: color $transition-fast;
+
+  &:hover {
+    color: $color-gold;
+  }
+}
+
+ul, ol {
+  padding-left: $spacing-md;
+  margin-bottom: $spacing-sm;
+}
+
+li {
+  margin-bottom: $spacing-xs;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+strong, b {
+  font-weight: 700;
+}
+
+blockquote {
+  border-left: 4px solid $color-gold;
+  padding-left: $spacing-md;
+  margin: $spacing-lg 0;
+  font-style: italic;
+  color: $color-brown;
+}
+
+// Selection
+::selection {
+  background-color: $color-gold;
+  color: $color-white;
+}
+
+// Focus styles
+:focus-visible {
+  outline: 2px solid $color-gold;
+  outline-offset: 2px;
+}

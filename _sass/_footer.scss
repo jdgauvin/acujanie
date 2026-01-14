@@ -1,0 +1,146 @@
+// Footer
+.site-footer {
+  background-color: $color-brown-dark;
+  color: $color-cream;
+  margin-top: auto;
+}
+
+.footer-top {
+  padding: $spacing-2xl 0;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr 1fr;
+  gap: $spacing-xl;
+
+  @media (max-width: $breakpoint-lg) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+}
+
+.footer-brand {
+  display: flex;
+  align-items: flex-start;
+  gap: $spacing-md;
+
+  @media (max-width: $breakpoint-sm) {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .enso {
+    color: $color-gold;
+    flex-shrink: 0;
+  }
+
+  strong {
+    display: block;
+    font-family: $font-heading;
+    font-size: $font-size-lg;
+    margin-bottom: $spacing-xs;
+  }
+
+  p {
+    font-size: $font-size-sm;
+    opacity: 0.8;
+    margin: 0;
+  }
+}
+
+.footer-contact,
+.footer-hours,
+.footer-cta {
+  h4 {
+    font-family: $font-heading;
+    font-size: $font-size-lg;
+    color: $color-gold;
+    margin-bottom: $spacing-md;
+  }
+}
+
+.footer-contact {
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    margin-bottom: $spacing-sm;
+  }
+
+  a {
+    color: $color-cream;
+    opacity: 0.9;
+
+    &:hover {
+      opacity: 1;
+      color: $color-gold;
+    }
+  }
+}
+
+.footer-hours {
+  p {
+    margin-bottom: $spacing-xs;
+    opacity: 0.9;
+  }
+
+  .price {
+    margin-top: $spacing-md;
+    padding-top: $spacing-md;
+    border-top: 1px solid rgba($color-cream, 0.2);
+    font-weight: 600;
+  }
+}
+
+.footer-cta {
+  .btn {
+    width: 100%;
+    margin-bottom: $spacing-md;
+  }
+
+  .social {
+    display: flex;
+    gap: $spacing-sm;
+
+    @media (max-width: $breakpoint-sm) {
+      justify-content: center;
+    }
+
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 44px;
+      height: 44px;
+      background-color: rgba($color-cream, 0.1);
+      border-radius: $radius-full;
+      color: $color-cream;
+      transition: background-color $transition-fast, color $transition-fast;
+
+      &:hover {
+        background-color: $color-gold;
+        color: $color-white;
+      }
+    }
+  }
+}
+
+.footer-bottom {
+  padding: $spacing-md 0;
+  border-top: 1px solid rgba($color-cream, 0.1);
+  text-align: center;
+
+  p {
+    margin: 0;
+    font-size: $font-size-sm;
+    opacity: 0.7;
+  }
+}

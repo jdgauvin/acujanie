@@ -1,0 +1,31 @@
+---
+layout: default
+title: Blogue | Acupuncture et médecine chinoise
+description: Articles et conseils sur l'acupuncture, la médecine traditionnelle chinoise, le bien-être et la santé par Janie Couture, acupuncteure à Québec.
+permalink: /blogue/
+---
+
+<header class="page-header">
+  <div class="container">
+    <h1>Blogue</h1>
+    <p class="subtitle">Articles et conseils sur l'acupuncture et la médecine chinoise</p>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container">
+    <div class="blog-grid">
+      {% for post in site.posts %}
+      <article class="blog-card">
+        <a href="{{ post.url }}">
+          <div class="blog-card-content">
+            <time class="blog-card-date">{{ post.date | date: "%d %B %Y" }}</time>
+            <h2 class="blog-card-title">{{ post.title }}</h2>
+            <p class="blog-card-excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>
+          </div>
+        </a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

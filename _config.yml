@@ -1,0 +1,44 @@
+title: "Acupuncture Janie Couture"
+description: "Clinique d'acupuncture à Québec - Charlesbourg-Beauport. Traitements pour douleurs, stress, allergies, fertilité et plus."
+url: "https://acujanie.com"
+baseurl: ""
+lang: "fr-CA"
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Janie Couture"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+sass:
+  style: compressed
+
+contact:
+  phone: "581-991-8654"
+  email: "info@acujanie.com"
+  address: "1480 Boulevard Louis-XIV, Local 103"
+  city: "Québec, QC G2L 1M3"
+  area: "Charlesbourg - Beauport"
+  hours: "Lundi-Vendredi: 8h30 - 20h30"
+  facebook: "https://www.facebook.com/JanieCoutureAcupuncture"
+  price: "75$"
+
+booking_url: "https://script.google.com/macros/s/AKfycbzKEqs3Mg3M4SKEdyFRW840ygD5SpKApjKXaRA2fKRJtPPju9rk9yuUDh50oF3TdO8iig/exec"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
