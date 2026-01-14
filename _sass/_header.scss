@@ -24,13 +24,12 @@
   text-decoration: none;
   color: $color-brown-dark;
 
-  .enso {
-    color: $color-gold;
+  .logo-img {
     transition: transform $transition-base;
   }
 
-  &:hover .enso {
-    transform: rotate(15deg);
+  &:hover .logo-img {
+    transform: scale(1.05);
   }
 }
 
