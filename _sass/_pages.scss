@@ -12,6 +12,21 @@
   }
 }
 
+.hero-cactus-mobile {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  right: -20px;
+  width: 100px;
+  height: auto;
+  opacity: 0.25;
+  z-index: 0;
+
+  @media (max-width: $breakpoint-lg) {
+    display: block;
+  }
+}
+
 .hero-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
