@@ -12,18 +12,24 @@
   }
 }
 
-.hero-cactus-mobile {
-  display: none;
-  position: absolute;
-  bottom: 0;
-  right: -20px;
-  width: 100px;
-  height: auto;
-  opacity: 0.25;
-  z-index: 0;
+.hero-title-row {
+  display: flex;
+  align-items: flex-start;
+  gap: $spacing-sm;
 
-  @media (max-width: $breakpoint-lg) {
-    display: block;
+  h1 {
+    flex: 1;
+  }
+
+  .hero-cactus-mobile {
+    display: none;
+    width: 60px;
+    height: auto;
+    flex-shrink: 0;
+
+    @media (max-width: $breakpoint-lg) {
+      display: block;
+    }
   }
 }
 
