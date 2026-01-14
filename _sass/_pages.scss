@@ -12,24 +12,14 @@
   }
 }
 
-.hero-title-row {
-  display: flex;
-  align-items: flex-start;
-  gap: $spacing-sm;
+.hero-cactus-mobile {
+  display: none;
+  width: 80px;
+  height: auto;
+  margin: $spacing-lg auto 0;
 
-  h1 {
-    flex: 1;
-  }
-
-  .hero-cactus-mobile {
-    display: none;
-    width: 60px;
-    height: auto;
-    flex-shrink: 0;
-
-    @media (max-width: $breakpoint-lg) {
-      display: block;
-    }
+  @media (max-width: $breakpoint-lg) {
+    display: block;
   }
 }
 
