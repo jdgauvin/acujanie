@@ -10,7 +10,7 @@ En cette journée d'Halloween, parlons de ce qui effraie parfois les gens à pro
 
 Les aiguilles d'acupuncture sont **extrêmement fines et ne causent aucune douleur**. La plupart des patients ressentent une sensation comparable à une piqûre de moustique, ou ne sentent rien du tout.
 
-<img src="/assets/images/allumette-aiguille.png" alt="Comparaison des aiguilles d'acupuncture" class="img-center">
+<img src="/assets/images/allumette-aiguille.jpg" alt="Comparaison des aiguilles d'acupuncture" class="img-center">
 
 ## Pendant le traitement
 
