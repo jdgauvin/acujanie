@@ -8,6 +8,10 @@ description: "Le 24 octobre marque la Journée Internationale de l'Acupuncture. 
 
 Le 24 octobre marque la **Journée Internationale de l'Acupuncture**!
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/LwsqA_nE9kU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Reconnaissance mondiale
 
 De nos jours, l'acupuncture est présente dans les cliniques et les hôpitaux de nombreux pays occidentaux. L'**Organisation mondiale de la Santé** reconnaît que cette médecine traditionnelle contribue à prévenir, diagnostiquer et soigner les maladies ainsi que préserver la santé.
