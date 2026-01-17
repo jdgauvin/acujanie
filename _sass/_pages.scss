@@ -82,20 +82,71 @@
   }
 }
 
-// Page header
+// Page header (hero style like homepage)
 .page-header {
+  position: relative;
   background: linear-gradient(135deg, $color-cream-dark 0%, $color-sand 100%);
   padding: $spacing-2xl 0;
-  text-align: center;
+  overflow: hidden;
 
+  @media (max-width: $breakpoint-md) {
+    padding: $spacing-xl 0;
+  }
+}
+
+.page-header-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: $spacing-xl;
+  align-items: center;
+
+  @media (max-width: $breakpoint-lg) {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+}
+
+.page-header-text {
   h1 {
     margin-bottom: $spacing-xs;
+    font-size: $font-size-4xl;
+
+    @media (max-width: $breakpoint-md) {
+      font-size: $font-size-3xl;
+    }
   }
 
   .subtitle {
     color: $color-brown;
     font-size: $font-size-lg;
     margin: 0;
+  }
+}
+
+.page-header-visual {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @media (max-width: $breakpoint-lg) {
+    display: none;
+  }
+
+  img {
+    max-width: 180px;
+    height: auto;
+    opacity: 0.85;
+  }
+}
+
+.page-header-cactus-mobile {
+  display: none;
+  width: 90px;
+  height: auto;
+  margin: $spacing-md auto 0;
+
+  @media (max-width: $breakpoint-lg) {
+    display: block;
   }
 }
 
