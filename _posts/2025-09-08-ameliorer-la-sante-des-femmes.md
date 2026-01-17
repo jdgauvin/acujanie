@@ -32,7 +32,7 @@ Pendant la grossesse, l'acupuncture aide à gérer :
 - Douleurs lombaires
 - Fatigue
 
-Avant la 35e semaine, les acupuncteurs peuvent aider à repositionner un bébé en siège. L'acupuncture facilite également le travail naturel et aide à la récupération post-partum, incluant la gestion de la douleur et les problèmes d'allaitement.
+Les acupuncteurs peuvent aider à repositionner un bébé en siège. L'acupuncture facilite également le travail naturel et aide à la récupération post-partum, incluant la gestion de la douleur et les problèmes d'allaitement.
 
 ## Ménopause
 

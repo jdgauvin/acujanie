@@ -52,6 +52,10 @@ La fraîcheur est essentielle. Coupez les aliments juste avant leur préparation
 
 <div class="clearfix"></div>
 
+## Collations du coucher et du lever
+
+Au coucher, privilégiez les aliments riches en protéines (par exemple des noix ou du yaourt) et au lever, des sucres lents (par exemple, des toasts ou des biscuits).
+
 ## Manger est un plaisir
 
 Alliez santé et plaisir. Comme le disait Hippocrate : *« Que ton aliment soit ton médicament »*.

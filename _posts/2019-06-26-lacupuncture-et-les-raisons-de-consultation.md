@@ -22,28 +22,19 @@ L'acupuncture est à la fois **préventive et curative**. Elle traite des person
 
 ### Troubles nerveux et immunitaires
 
-- Asthme
-- Allergies saisonnières
-- Sinusites
+L'acupuncture traite efficacement l'asthme, les allergies saisonnières et les sinusites.
 
 ### Troubles émotionnels
 
-- Anxiété et stress
-- Insomnie
-- Fatigue chronique
-- Dépression
+Elle aide à soulager l'anxiété et le stress, l'insomnie, la fatigue chronique et la dépression.
 
 ### Troubles hormonaux
 
-- Infertilité
-- Ménopause
-- Problèmes menstruels
+L'acupuncture accompagne les personnes souffrant d'infertilité, de symptômes de ménopause et de problèmes menstruels.
 
 ### Troubles digestifs
 
-- Nausées
-- Reflux gastriques
-- Syndrome du côlon irritable
+Elle soulage les nausées, les reflux gastriques et le syndrome du côlon irritable.
 
 ### Douleurs
 

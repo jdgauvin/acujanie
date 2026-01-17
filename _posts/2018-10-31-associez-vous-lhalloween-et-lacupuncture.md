@@ -20,7 +20,7 @@ Une fois les aiguilles en place et activées, vous pourriez ressentir :
 - Une sensation de **chaleur**
 - Des sensations qui **rayonnent** légèrement
 
-Mais jamais de douleur! Les séances durent entre 20 et 35 minutes, pendant lesquelles les patients se détendent et ressentent **une sensation de détente et d'apaisement**.
+Les séances durent entre 20 et 35 minutes, pendant lesquelles les patients se détendent et ressentent **une sensation de détente et d'apaisement**.
 
 ## Sécurité maximale
 
