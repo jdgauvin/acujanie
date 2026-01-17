@@ -38,7 +38,7 @@ Les signes de déshydratation incluent une miction réduite et une bouche sèche
 
 <img src="/assets/images/apple.png" alt="Pomme" class="img-right img-small">
 
-Des collations toutes les 1-2 heures stabilisent la glycémie. Privilégiez les « sucres lents » (fruits, pain, pâtes, riz) plutôt que les aliments sucrés.
+Des collations toutes les 1 à 2 heures aident à stabiliser la glycémie. Il est recommandé de privilégier des sources de glucides complexes à absorption lente, telles que les fruits entiers, le pain de blé entier ou de seigle, le riz brun ou basmati, les pâtes de blé entier, l'avoine, le quinoa ou les légumineuses, plutôt que des aliments sucrés ou raffinés. Au coucher, mangez fortement protéiné (par exemple des noix ou du yaourt).
 
 <div class="clearfix"></div>
 
