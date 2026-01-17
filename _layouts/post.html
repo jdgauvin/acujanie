@@ -23,7 +23,10 @@ layout: default
 
   <footer class="post-footer">
     <div class="container">
-      <div class="post-cta">
+      <div class="post-cta" style="position: relative;">
+        <div class="cactus-deco" style="position: absolute; right: 1rem; top: -20px; opacity: 0.6;">
+          <img src="/assets/images/cactus{{ page.date | date: '%d' | modulo: 8 | plus: 1 }}.png" alt="" style="width: 70px;">
+        </div>
         <h3>Vous avez des questions?</h3>
         <p>Prenez rendez-vous pour une consultation personnalisée.</p>
         <a href="/reservation-en-ligne/" class="btn btn-primary">Prendre rendez-vous</a>

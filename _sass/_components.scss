@@ -228,3 +228,112 @@
     color: $color-gold;
   }
 }
+
+// Decorative cactus images
+.cactus-deco {
+  pointer-events: none;
+  user-select: none;
+
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.cactus-inline {
+  display: inline-block;
+  vertical-align: middle;
+
+  img {
+    width: 80px;
+    height: auto;
+  }
+}
+
+.cactus-float-right {
+  float: right;
+  margin-left: $spacing-lg;
+  margin-bottom: $spacing-md;
+
+  img {
+    width: 120px;
+    height: auto;
+    opacity: 0.9;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    float: none;
+    text-align: center;
+    margin: 0 auto $spacing-md;
+  }
+}
+
+.cactus-float-left {
+  float: left;
+  margin-right: $spacing-lg;
+  margin-bottom: $spacing-md;
+
+  img {
+    width: 120px;
+    height: auto;
+    opacity: 0.9;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    float: none;
+    text-align: center;
+    margin: 0 auto $spacing-md;
+  }
+}
+
+.cactus-center {
+  text-align: center;
+  margin: $spacing-lg auto;
+
+  img {
+    width: 100px;
+    height: auto;
+    opacity: 0.85;
+  }
+}
+
+.cactus-small {
+  img {
+    width: 60px !important;
+  }
+}
+
+.cactus-medium {
+  img {
+    width: 100px !important;
+  }
+}
+
+.cactus-large {
+  img {
+    width: 140px !important;
+  }
+}
+
+.cactus-page-header {
+  position: absolute;
+  right: $spacing-xl;
+  bottom: -30px;
+  z-index: 1;
+
+  img {
+    width: 80px;
+    height: auto;
+    opacity: 0.7;
+  }
+
+  @media (max-width: $breakpoint-md) {
+    display: none;
+  }
+}
+
+.page-header {
+  position: relative;
+  overflow: visible;
+}
