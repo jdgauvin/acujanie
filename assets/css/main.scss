@@ -1,10 +1,10 @@
 ---
 ---
 
-@use "variables" as *;
-@use "base";
-@use "layout";
-@use "header";
-@use "footer";
-@use "components";
-@use "pages";
+@import "variables";
+@import "base";
+@import "layout";
+@import "header";
+@import "footer";
+@import "components";
+@import "pages";
