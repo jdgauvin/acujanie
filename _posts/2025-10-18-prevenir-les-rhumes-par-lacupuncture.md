@@ -5,7 +5,7 @@ date: 2025-10-18
 author: Janie Couture
 description: "Découvrez comment l'acupuncture peut renforcer vos défenses immunitaires et vous aider à prévenir les rhumes et la grippe."
 image: /assets/images/feuilles.jpeg
-last_modified_at: 2025-01-18
+last_modified_at: 2026-01-18
 ---
 
 <img src="/assets/images/feuilles.jpeg" alt="Feuilles d'automne" class="img-center">
