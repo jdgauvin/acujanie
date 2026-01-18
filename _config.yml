@@ -15,7 +15,7 @@ social:
     - https://www.facebook.com/JanieCoutureAcupuncture
 google_site_verification: ""
 
-permalink: /:year/:month/:day/:title/
+permalink: /articles/:title/
 
 defaults:
   - scope:
@@ -33,6 +33,7 @@ defaults:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 sass:
   style: compressed

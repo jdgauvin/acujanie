@@ -6,6 +6,8 @@ author: Janie Couture
 description: "L'acupuncture peut accompagner les patients atteints de maladies auto-immunes et chroniques pour améliorer leur qualité de vie."
 image: /assets/images/logo_sun.png
 last_modified_at: 2026-01-18
+redirect_from:
+  - /2025/07/17/lacupuncture-dans-le-traitement-des-maladies-auto-immunes-inflammatoires-et-chroniques/
 ---
 
 Les douleurs chroniques affectent profondément le bien-être mental et physique.

@@ -6,6 +6,8 @@ author: Janie Couture
 description: "Découvrez les nombreuses raisons de consulter un acupuncteur et comment l'acupuncture peut améliorer votre santé globale."
 image: /assets/images/logo_sun.png
 last_modified_at: 2026-01-18
+redirect_from:
+  - /2019/06/26/lacupuncture-et-les-raisons-de-consultation/
 ---
 
 Voici une capsule vidéo de l'Ordre des acupuncteurs du Québec sur les raisons de consultation :

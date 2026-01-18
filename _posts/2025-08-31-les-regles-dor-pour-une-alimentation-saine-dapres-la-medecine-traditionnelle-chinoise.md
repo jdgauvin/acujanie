@@ -6,6 +6,8 @@ author: Janie Couture
 description: "Découvrez les principes fondamentaux de l'alimentation selon la médecine traditionnelle chinoise pour améliorer votre digestion et votre santé globale."
 image: /assets/images/alimentation-saine.jpeg
 last_modified_at: 2026-01-18
+redirect_from:
+  - /2025/08/31/les-regles-dor-pour-une-alimentation-saine-dapres-la-medecine-traditionnelle-chinoise/
 ---
 
 <img src="/assets/images/alimentation-saine.jpeg" alt="Alimentation saine" class="img-center">
