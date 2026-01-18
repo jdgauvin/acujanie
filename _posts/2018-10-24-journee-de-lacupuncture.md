@@ -4,6 +4,7 @@ title: "Journée Internationale de l'Acupuncture"
 date: 2018-10-24
 author: Janie Couture
 description: "Le 24 octobre marque la Journée Internationale de l'Acupuncture. Découvrez pourquoi l'acupuncture est reconnue mondialement."
+image: /assets/images/logo_sun.png
 ---
 
 Le 24 octobre marque la **Journée Internationale de l'Acupuncture**!

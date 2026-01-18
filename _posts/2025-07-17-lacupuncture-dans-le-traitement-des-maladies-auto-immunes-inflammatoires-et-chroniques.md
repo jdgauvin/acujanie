@@ -4,6 +4,7 @@ title: "L'acupuncture dans le traitement des maladies auto-immunes, inflammatoir
 date: 2025-07-17
 author: Janie Couture
 description: "L'acupuncture peut accompagner les patients atteints de maladies auto-immunes et chroniques pour améliorer leur qualité de vie."
+image: /assets/images/logo_sun.png
 ---
 
 Les douleurs chroniques affectent profondément le bien-être mental et physique.

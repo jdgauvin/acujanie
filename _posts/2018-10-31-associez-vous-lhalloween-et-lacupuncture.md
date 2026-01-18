@@ -4,6 +4,7 @@ title: "Associez-vous l'Halloween à l'Acupuncture?"
 date: 2018-10-31
 author: Janie Couture
 description: "Démystifiez la peur des aiguilles d'acupuncture. Les aiguilles sont extrêmement fines et ne causent aucune douleur."
+image: /assets/images/allumette-aiguille.jpg
 ---
 
 En cette journée d'Halloween, parlons de ce qui effraie parfois les gens à propos de l'acupuncture : **les aiguilles**!
