@@ -6,7 +6,7 @@ author: Janie Couture
 description: "Découvrez les principes fondamentaux de l'alimentation selon la médecine traditionnelle chinoise pour améliorer votre digestion et votre santé globale."
 ---
 
-<img src="/assets/images/marche.jpg" alt="Marché de légumes frais" class="img-center">
+<img src="/assets/images/plat.jpeg" alt="Bol de bouillon chaud" class="img-center">
 
 La médecine chinoise définit l'alimentation comme un outil essentiel pour préserver la santé. Les aliments possèdent de nombreuses vertus thérapeutiques et peuvent être utilisés pour maintenir et améliorer la santé.
 
