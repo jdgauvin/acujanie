@@ -46,12 +46,10 @@ Des collations toutes les 1 à 2 heures aident à stabiliser la glycémie. Il es
 
 - Amandes
 - Riz et soupe de riz
-- Biscuits secs
 - Fruits secs
 - Œufs
 - Pamplemousse
 - Nouilles et pâtes
-- Pain blanc
 - Yogourt
 
 Selon la médecine traditionnelle chinoise, favorisez les aliments faciles à digérer et évitez les produits laitiers, les aliments épicés et les légumes crus.
