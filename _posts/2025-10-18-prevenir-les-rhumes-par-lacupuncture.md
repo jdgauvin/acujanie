@@ -46,3 +46,9 @@ Prenez le temps de vous détendre et de pratiquer des techniques de relaxation.
 ---
 
 Vous souhaitez renforcer votre système immunitaire avant l'hiver? N'hésitez pas à prendre rendez-vous pour une consultation.
+
+## Références
+
+- *The Journal of Alternative and Complementary Medicine*, 2013.
+- *Evidence-Based Complementary and Alternative Medicine*, 2011.
+- [National Institute of Allergy and Infectious Diseases (NIAID)](https://www.niaid.nih.gov/)

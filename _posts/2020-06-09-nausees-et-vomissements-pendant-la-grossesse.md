@@ -73,3 +73,7 @@ Le gingembre et la vitamine B6 ont montré leur efficacité selon des études cl
 ---
 
 Vous êtes enceinte et souffrez de nausées? L'acupuncture peut vous aider. Contactez-moi pour en discuter.
+
+## Références
+
+- Debra Betts. *Guide pratique d'acupuncture pour la grossesse et l'accouchement*. Éditions Satas, 2012.

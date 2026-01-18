@@ -59,3 +59,10 @@ Au coucher, privilégiez les aliments riches en protéines (par exemple des noix
 ## Manger est un plaisir
 
 Alliez santé et plaisir. Comme le disait Hippocrate : *« Que ton aliment soit ton médicament »*.
+
+## Références
+
+- Sylvie Robitaille. *Introduction aux principes de la MTO (médecine traditionnelle chinoise) dans l'alimentation quotidienne*. Cahier de séminaire.
+- Claude Émile Racette. *Manger le Dragon, Compendium de diétothérapie en médecine chinoise*. CCDMD, 2007.
+- McKinley O'Loughlin Bidle. *Anatomie et physiologie, une approche intégrée*. Chenelière éducation, 2013.
+- Association des Acupuncteurs du Québec. [La médecine traditionnelle chinoise](https://acupuncture-quebec.com/decouvrir-acupuncture/la-medecine-traditionnelle-chinoise/)
