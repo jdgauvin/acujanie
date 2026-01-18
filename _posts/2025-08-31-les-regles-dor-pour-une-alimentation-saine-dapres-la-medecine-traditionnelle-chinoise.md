@@ -6,7 +6,7 @@ author: Janie Couture
 description: "Découvrez les principes fondamentaux de l'alimentation selon la médecine traditionnelle chinoise pour améliorer votre digestion et votre santé globale."
 ---
 
-<img src="/assets/images/plat.jpeg" alt="Bol de bouillon chaud" class="img-center">
+<img src="/assets/images/alimentation-saine.jpeg" alt="Alimentation saine" class="img-center">
 
 La médecine chinoise définit l'alimentation comme un outil essentiel pour préserver la santé. Les aliments possèdent de nombreuses vertus thérapeutiques et peuvent être utilisés pour maintenir et améliorer la santé.
 
@@ -34,7 +34,7 @@ La mastication facilite le travail de l'estomac et l'ensemble du processus diges
 
 ## Manger cuit et chaud
 
-<img src="/assets/images/alimentation-saine.jpeg" alt="Alimentation saine" class="img-right">
+<img src="/assets/images/plat.jpeg" alt="Bol de bouillon chaud" class="img-right">
 
 Préférez les aliments cuits (légumes à la vapeur ou sautés) et évitez les crudités et smoothies froids, qui peuvent être plus difficiles à digérer.
 
