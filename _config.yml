@@ -6,14 +6,14 @@ lang: "fr-CA"
 
 # SEO
 logo: /assets/images/logo_sun.png
-image: /assets/images/logo_sun.png
-twitter:
-  card: summary
+image: https://acujanie.com/assets/images/logo_sun.png
+author:
+  name: Janie Couture
 social:
   name: Acupuncture Janie Couture
   links:
     - https://www.facebook.com/JanieCoutureAcupuncture
-google_site_verification: ""
+# google_site_verification: ""
 
 permalink: /articles/:title/
 
@@ -34,6 +34,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-feed
 
 sass:
   style: compressed

@@ -5,7 +5,8 @@ date: 2025-10-18
 author: Janie Couture
 description: "Découvrez comment l'acupuncture peut renforcer vos défenses immunitaires et vous aider à prévenir les rhumes et la grippe."
 image: /assets/images/feuilles.jpeg
-last_modified_at: 2026-01-18
+excerpt: "L'acupuncture peut vous aider à renforcer vos défenses naturelles pour mieux traverser la saison froide."
+last_modified_at: 2025-10-18
 redirect_from:
   - /2025/10/18/prevenir-les-rhumes-par-lacupuncture/
 ---

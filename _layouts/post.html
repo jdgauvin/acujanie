@@ -2,22 +2,22 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+<article class="post">
   <header class="post-header">
     <div class="container">
-      <h1 itemprop="headline">{{ page.title }}</h1>
+      <h1>{{ page.title }}</h1>
       <div class="post-meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {{ page.date | date: "%d %B %Y" }}
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+          {% include date-fr.html date=page.date %}
         </time>
-        <span class="author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-          par <span itemprop="name">{{ page.author | default: site.author | default: "Janie Couture" }}</span>
+        <span class="author">
+          par {{ page.author | default: site.author | default: "Janie Couture" }}
         </span>
       </div>
     </div>
   </header>
 
-  <div class="post-content container" itemprop="articleBody">
+  <div class="post-content container">
     {{ content }}
   </div>
 

@@ -5,7 +5,7 @@ date: 2020-07-20
 author: Janie Couture
 description: "L'acupuncture a acquis sa renommée grâce à son efficacité pour traiter les douleurs aiguës et chroniques."
 image: /assets/images/logo_sun.png
-last_modified_at: 2026-01-18
+last_modified_at: 2020-07-20
 redirect_from:
   - /2020/07/20/traiter-ses-douleurs-avec-lacupuncture/
 ---

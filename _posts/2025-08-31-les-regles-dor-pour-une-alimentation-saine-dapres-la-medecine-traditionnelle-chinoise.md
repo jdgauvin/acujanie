@@ -5,7 +5,8 @@ date: 2025-08-31
 author: Janie Couture
 description: "Découvrez les principes fondamentaux de l'alimentation selon la médecine traditionnelle chinoise pour améliorer votre digestion et votre santé globale."
 image: /assets/images/alimentation-saine.jpeg
-last_modified_at: 2026-01-18
+excerpt: "La médecine chinoise définit l'alimentation comme un outil essentiel pour préserver la santé et améliorer la digestion."
+last_modified_at: 2025-08-31
 redirect_from:
   - /2025/08/31/les-regles-dor-pour-une-alimentation-saine-dapres-la-medecine-traditionnelle-chinoise/
 ---

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Articles | Acupuncture et médecine chinoise
+title: Articles sur l'acupuncture et la médecine chinoise
+image: /assets/images/logo_sun.png
+last_modified_at: 2026-03-04
 description: Articles et conseils sur l'acupuncture, la médecine traditionnelle chinoise, le bien-être et la santé par Janie Couture, acupuncteure à Québec.
 permalink: /articles/
 redirect_from:
@@ -29,7 +31,7 @@ redirect_from:
       <article class="blog-card">
         <a href="{{ post.url }}">
           <div class="blog-card-content">
-            <time class="blog-card-date">{{ post.date | date: "%d %B %Y" }}</time>
+            <time class="blog-card-date">{% include date-fr.html date=post.date %}</time>
             <h2 class="blog-card-title">{{ post.title }}</h2>
             <p class="blog-card-excerpt">{{ post.excerpt | strip_html | truncate: 150 }}</p>
           </div>

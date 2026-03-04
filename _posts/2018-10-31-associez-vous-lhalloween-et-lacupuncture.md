@@ -5,7 +5,7 @@ date: 2018-10-31
 author: Janie Couture
 description: "Démystifiez la peur des aiguilles d'acupuncture. Les aiguilles sont extrêmement fines et ne causent aucune douleur."
 image: /assets/images/allumette-aiguille.jpg
-last_modified_at: 2026-01-18
+last_modified_at: 2018-10-31
 redirect_from:
   - /2018/10/31/associez-vous-lhalloween-et-lacupuncture/
 ---

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Acupuncture Janie Couture | Clinique d'acupuncture à Québec
+title: Clinique d'acupuncture à Québec
+image: /assets/images/logo_sun.png
+last_modified_at: 2026-03-04
 description: Clinique d'acupuncture à Québec, Charlesbourg-Beauport. Traitements pour douleurs, stress, allergies, fertilité, grossesse et plus. Janie Couture, Ac.
 ---
 
@@ -8,7 +10,7 @@ description: Clinique d'acupuncture à Québec, Charlesbourg-Beauport. Traitemen
   <div class="container">
     <div class="hero-content">
       <div class="hero-text">
-        <h1>Retrouvez votre équilibre naturel</h1>
+        <h1>Clinique d'acupuncture à Québec</h1>
         <p>L'acupuncture est une médecine holistique qui évalue les aspects physiques, mentaux et émotionnels pour vous accompagner vers un mieux-être durable.</p>
         <div class="hero-cta">
           <a href="/reservation-en-ligne/" class="btn btn-primary">Prendre rendez-vous</a>
@@ -143,7 +145,7 @@ description: Clinique d'acupuncture à Québec, Charlesbourg-Beauport. Traitemen
       <article class="blog-card">
         <a href="{{ post.url }}">
           <div class="blog-card-content">
-            <time class="blog-card-date">{{ post.date | date: "%d %B %Y" }}</time>
+            <time class="blog-card-date">{% include date-fr.html date=post.date %}</time>
             <h3 class="blog-card-title">{{ post.title }}</h3>
             <p class="blog-card-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
           </div>

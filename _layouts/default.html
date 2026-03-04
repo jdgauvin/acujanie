@@ -12,9 +12,8 @@
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
   {% seo %}
+  {% feed_meta %}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -25,7 +24,6 @@
   <!-- Favicons -->
   <link rel="icon" type="image/png" href="{{ '/assets/images/logo_sun.png' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/images/logo_sun.png' | relative_url }}">
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   {% if page.schema %}
   <script type="application/ld+json">
@@ -36,11 +34,14 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": "HealthAndBeautyBusiness",
+    "@id": "{{ site.url }}/#business",
     "name": "Acupuncture Janie Couture",
+    "description": "{{ site.description }}",
     "image": "{{ '/assets/images/logo_sun.png' | absolute_url }}",
     "telephone": "{{ site.contact.phone }}",
     "email": "{{ site.contact.email }}",
+    "url": "{{ site.url }}",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "{{ site.contact.address }}",
@@ -49,14 +50,30 @@
       "postalCode": "G2L 1M3",
       "addressCountry": "CA"
     },
-    "openingHours": "Mo-Fr 08:30-20:30",
-    "priceRange": "$$",
-    "url": "{{ site.url }}"
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 46.8615,
+      "longitude": -71.2437
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Québec"
+    },
+    "sameAs": [
+      "{{ site.contact.facebook }}"
+    ],
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "08:30",
+      "closes": "20:30"
+    },
+    "priceRange": "$$"
   }
   </script>
 
   <!-- Basis tracking -->
-  <script src="https://cdn01.basis.net/assets/up.js?um=1"></script>
+  <script async src="https://cdn01.basis.net/assets/up.js?um=1"></script>
   <script type="text/javascript">
     cntrUpTag.track('cntrData', '28aca3e0c854a4dc');
   </script>

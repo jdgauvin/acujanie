@@ -5,7 +5,8 @@ date: 2020-06-09
 author: Janie Couture
 description: "Conseils pratiques et rôle de l'acupuncture pour soulager les nausées et vomissements pendant la grossesse de façon naturelle et sécuritaire."
 image: /assets/images/grossesse.jpg
-last_modified_at: 2026-01-18
+excerpt: "Les nausées touchent environ la moitié des femmes enceintes. L'acupuncture peut les soulager de façon naturelle et sécuritaire."
+last_modified_at: 2020-06-09
 redirect_from:
   - /2020/06/09/nausees-et-vomissements-pendant-la-grossesse/
 ---
