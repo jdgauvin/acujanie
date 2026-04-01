@@ -220,6 +220,13 @@
     max-width: 400px;
   }
 
+  p:has(> img.img-left:only-child),
+  p:has(> img.img-right:only-child),
+  p:has(> img.img-center:only-child) {
+    margin: 0;
+    line-height: 0;
+  }
+
   .img-left {
     float: left;
     margin: 0 $spacing-md $spacing-md 0;
@@ -248,6 +255,24 @@
     display: block;
     margin: $spacing-lg auto;
     max-width: 500px;
+  }
+
+  .img-gallery {
+    display: flex;
+    gap: $spacing-sm;
+    margin: $spacing-lg 0;
+
+    img {
+      flex: 1;
+      min-width: 0;
+      object-fit: cover;
+      border-radius: $radius-md;
+      margin: 0;
+    }
+
+    @media (max-width: $breakpoint-sm) {
+      flex-direction: column;
+    }
   }
 
   .clearfix::after {
