@@ -15,7 +15,7 @@ Se retourner sans cesse la nuit, voir les heures passer et se réveiller à plat
 
 <div class="clearfix"></div>
 
-<div style="display: flex; align-items: center; gap: 1.5rem;">
+<div class="content-aside">
 <div>
 
 Voici deux études mettant en lumière l'efficacité de l'acupuncture pour traiter l'insomnie. La première, tirée d'une revue systématique menée par Cao et al. (2009) et regroupant 46 essais randomisés, montre que l'acupuncture améliore significativement la qualité du sommeil comparativement à l'absence de traitement ou à certains traitements conventionnels. Les résultats suggèrent notamment une amélioration du score de qualité du sommeil (PSQI) ainsi qu'une augmentation de la durée du sommeil, avec peu d'effets secondaires rapportés.
@@ -23,14 +23,12 @@ Voici deux études mettant en lumière l'efficacité de l'acupuncture pour trait
 Par ailleurs, un essai clinique randomisé plus récent (Yin et al., 2017) a évalué l'efficacité de l'acupuncture chez 72 patients souffrant d'insomnie primaire. Après quatre semaines de traitement, les participants ayant reçu de l'acupuncture présentaient une amélioration significative de la sévérité de l'insomnie, ainsi que de l'efficacité et de la durée du sommeil, comparativement au groupe placebo.
 
 </div>
-<img src="/assets/images/lac-coucher-soleil.png" alt="Lac paisible au coucher du soleil" style="max-width: 250px; border-radius: 8px; flex-shrink: 0;">
+<img src="/assets/images/lac-coucher-soleil.png" alt="Lac paisible au coucher du soleil">
 </div>
-
-<img src="/assets/images/ciel-nuages.png" alt="Ciel bleu avec nuages apaisants" class="img-left">
 
 L'acupuncture apparaît donc comme une option sécuritaire et efficace dans la prise en charge de l'insomnie. N'hésitez plus : laissez-vous bercer dans les bras de Morphée après un apaisant traitement d'acupuncture!
 
-<div class="clearfix"></div>
+<img src="/assets/images/ciel-nuages.png" alt="Ciel bleu avec nuages apaisants" class="img-center">
 
 ## Références
 
