@@ -4,8 +4,8 @@ title: "Traiter ses douleurs avec l'acupuncture"
 date: 2020-07-20
 author: Janie Couture
 description: "L'acupuncture a acquis sa renommée grâce à son efficacité pour traiter les douleurs aiguës et chroniques."
-image: /assets/images/logo_sun.png
-last_modified_at: 2020-07-20
+image: https://img.youtube.com/vi/lUymHGAEEXc/maxresdefault.jpg
+last_modified_at: 2026-07-16
 redirect_from:
   - /2020/07/20/traiter-ses-douleurs-avec-lacupuncture/
 ---
@@ -13,7 +13,7 @@ redirect_from:
 Voici une capsule vidéo de l'Ordre des acupuncteurs du Québec sur le traitement de la douleur :
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/lUymHGAEEXc" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/lUymHGAEEXc" title="Vidéo : traiter ses douleurs avec l'acupuncture" loading="lazy" frameborder="0" allowfullscreen></iframe>
 </div>
 
 L'acupuncture a acquis sa renommée grâce à son efficacité à traiter les douleurs. Documentés dans un grand nombre d'études, ses effets bénéfiques permettent d'atténuer celles-ci, qu'elles soient de nature aiguë ou chronique.

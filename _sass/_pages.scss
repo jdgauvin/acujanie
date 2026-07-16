@@ -390,6 +390,15 @@
   }
 }
 
+.related-posts {
+  margin-bottom: $spacing-xl;
+
+  h2 {
+    text-align: center;
+    margin-bottom: $spacing-lg;
+  }
+}
+
 // Blog listing
 .blog-grid {
   display: grid;

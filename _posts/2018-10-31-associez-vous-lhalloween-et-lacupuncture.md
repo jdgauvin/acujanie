@@ -5,7 +5,7 @@ date: 2018-10-31
 author: Janie Couture
 description: "Démystifiez la peur des aiguilles d'acupuncture. Les aiguilles sont extrêmement fines et ne causent aucune douleur."
 image: /assets/images/allumette-aiguille.jpg
-last_modified_at: 2018-10-31
+last_modified_at: 2026-07-16
 redirect_from:
   - /2018/10/31/associez-vous-lhalloween-et-lacupuncture/
 ---
@@ -14,7 +14,7 @@ En cette journée d'Halloween, parlons de ce qui effraie parfois les gens à pro
 
 Les aiguilles d'acupuncture sont **extrêmement fines et ne causent aucune douleur**. La plupart des patients ressentent une sensation comparable à une piqûre de moustique, ou ne sentent rien du tout.
 
-<img src="/assets/images/allumette-aiguille.jpg" alt="Comparaison des aiguilles d'acupuncture" class="img-center">
+<img src="/assets/images/allumette-aiguille.jpg" alt="Comparaison des aiguilles d'acupuncture" class="img-center" width="464" height="408">
 
 ## Pendant le traitement
 

@@ -6,12 +6,12 @@ author: Janie Couture
 description: "Découvrez comment l'acupuncture peut renforcer vos défenses immunitaires et vous aider à prévenir les rhumes et la grippe."
 image: /assets/images/feuilles.jpeg
 excerpt: "L'acupuncture peut vous aider à renforcer vos défenses naturelles pour mieux traverser la saison froide."
-last_modified_at: 2025-10-18
+last_modified_at: 2026-07-16
 redirect_from:
   - /2025/10/18/prevenir-les-rhumes-par-lacupuncture/
 ---
 
-<img src="/assets/images/feuilles.jpeg" alt="Feuilles d'automne" class="img-center">
+<img src="/assets/images/feuilles.jpeg" alt="Feuilles d'automne" class="img-center" width="1024" height="685">
 
 Les feuilles changent de couleur et tombent, le froid s'installe, et les virus redeviennent plus fréquents. L'acupuncture peut vous aider à renforcer vos défenses naturelles pour mieux traverser cette période.
 
@@ -19,7 +19,7 @@ Les feuilles changent de couleur et tombent, le froid s'installe, et les virus r
 
 Une étude publiée en 2013 dans le *Journal of Alternative and Complementary Medicine* a démontré **une réduction de la fréquence des infections respiratoires** chez les adultes traités par acupuncture pendant l'hiver.
 
-<img src="/assets/images/lymphocytes.jpeg" alt="Lymphocytes" class="img-right">
+<img src="/assets/images/lymphocytes.jpeg" alt="Lymphocytes" class="img-right" width="1024" height="768" loading="lazy">
 
 Une autre étude de 2011, publiée dans *Evidence-Based Complementary and Alternative Medicine*, a révélé une augmentation des cellules immunitaires, particulièrement les **lymphocytes T**, chez les patients recevant des traitements d'acupuncture réguliers pendant quatre semaines.
 

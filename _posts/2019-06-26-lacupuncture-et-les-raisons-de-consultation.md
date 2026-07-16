@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "L'acupuncture et les raisons de consultation"
+title: "Raisons de consulter en acupuncture"
 date: 2019-06-26
 author: Janie Couture
 description: "Découvrez les nombreuses raisons de consulter un acupuncteur et comment l'acupuncture peut améliorer votre santé globale."
-image: /assets/images/logo_sun.png
-last_modified_at: 2019-06-26
+image: https://img.youtube.com/vi/d0Ae6SQs_kQ/maxresdefault.jpg
+last_modified_at: 2026-07-16
 redirect_from:
   - /2019/06/26/lacupuncture-et-les-raisons-de-consultation/
 ---
@@ -13,7 +13,7 @@ redirect_from:
 Voici une capsule vidéo de l'Ordre des acupuncteurs du Québec sur les raisons de consultation :
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/d0Ae6SQs_kQ" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/d0Ae6SQs_kQ" title="Vidéo : les raisons de consulter en acupuncture" loading="lazy" frameborder="0" allowfullscreen></iframe>
 </div>
 
 L'acupuncture est plus pertinente que jamais car elle offre des solutions efficaces pour pallier les problèmes de santé.

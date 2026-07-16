@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "L'acupuncture et les allergies saisonnières"
+title: "Acupuncture et allergies saisonnières"
 date: 2026-04-01
 author: Janie Couture
-description: "L'acupuncture peut diminuer les symptômes des allergies saisonnières et les prévenir. L'OMS la reconnaît pour traiter les troubles respiratoires comme la rhinite allergique."
-image: /assets/images/fleurs-champ.png
+description: "L'acupuncture peut diminuer les symptômes des allergies saisonnières et les prévenir. L'OMS la reconnaît pour traiter les troubles respiratoires."
+image: /assets/images/fleurs-champ.jpg
 excerpt: "Le nez vous coule comme un érable au printemps et les éternuements ne vous laissent aucun répit? L'acupuncture est là pour vous aider à diminuer les symptômes et à les prévenir!"
-last_modified_at: 2026-04-01
+last_modified_at: 2026-07-16
 ---
 
 Le nez vous coule comme un érable au printemps et les éternuements ne vous laissent aucun répit? Aimeriez-vous enfin trouver du soulagement face à vos allergies saisonnières sans avoir recours aux médicaments? L'acupuncture est là pour vous aider à diminuer les symptômes et à les prévenir!
 
 L'OMS (Organisation mondiale de la Santé) classe les allergies saisonnières, ainsi que l'asthme et la sinusite, parmi les troubles du système respiratoire pouvant être traités efficacement par l'acupuncture.
 
-<img src="/assets/images/fleurs-champ.png" alt="Fleurs des champs au printemps" class="img-left">
+<img src="/assets/images/fleurs-champ.jpg" alt="Fleurs des champs au printemps" class="img-left" width="298" height="201">
 
 Une allergie est une réaction excessive du système immunitaire à une substance étrangère (allergène) qui, normalement, n'entraîne pas de trouble chez la plupart des individus. Les principaux allergènes sont : les pollens, l'herbe à poux, la poussière, les acariens, les poils d'animaux et certains produits chimiques. Les allergies peuvent être saisonnières ou persister toute l'année.
 
@@ -21,7 +21,7 @@ Lors d'une rhinite allergique, la personne peut ressentir les symptômes suivant
 
 <div class="clearfix"></div>
 
-<img src="/assets/images/champ-ble.png" alt="Champ de blé sous un ciel bleu" class="img-right">
+<img src="/assets/images/champ-ble.jpg" alt="Champ de blé sous un ciel bleu" class="img-right" width="280" height="212" loading="lazy">
 
 Tiré d'un article sur les allergies saisonnières de l'Association des acupuncteurs du Québec, le paragraphe suivant met en lien l'acupuncture et ses effets sur les allergies.
 
@@ -29,7 +29,7 @@ Aujourd'hui, la science moderne reconnaît que l'acupuncture agit sur les systè
 
 <div class="clearfix"></div>
 
-<img src="/assets/images/femme-fleurs.png" alt="Femme profitant des fleurs au printemps" class="img-left">
+<img src="/assets/images/femme-fleurs.jpg" alt="Femme profitant des fleurs au printemps" class="img-left" width="297" height="195" loading="lazy">
 
 Le traitement des allergies saisonnières est plus efficace en prévention, soit de 4 à 6 semaines avant l'apparition des symptômes. Toutefois, pendant la saison des allergies, l'acupuncture aide à calmer la réaction exagérée de l'organisme et à soulager les symptômes incommodants. Elle peut également avoir un effet à long terme en atténuant les allergies pour les saisons à venir.
 

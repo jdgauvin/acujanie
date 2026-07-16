@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Nausées et vomissements pendant la grossesse"
+title: "Soulager les nausées de grossesse"
 date: 2020-06-09
 author: Janie Couture
 description: "Conseils pratiques et rôle de l'acupuncture pour soulager les nausées et vomissements pendant la grossesse de façon naturelle et sécuritaire."
 image: /assets/images/grossesse.jpg
 excerpt: "Les nausées touchent environ la moitié des femmes enceintes. L'acupuncture peut les soulager de façon naturelle et sécuritaire."
-last_modified_at: 2020-06-09
+last_modified_at: 2026-07-16
 redirect_from:
   - /2020/06/09/nausees-et-vomissements-pendant-la-grossesse/
 ---
 
-<img src="/assets/images/grossesse.jpg" alt="Femme enceinte" class="img-center">
+<img src="/assets/images/grossesse.jpg" alt="Femme enceinte" class="img-center" width="640" height="426">
 
 Les nausées et vomissements touchent environ la moitié des femmes enceintes, généralement entre la 6e et la 16e semaine de grossesse, avec un pic entre la 6e et la 12e semaine. L'expérience varie considérablement d'une femme à l'autre, certaines ressentant des nausées mineures tandis que d'autres sont gravement incapacitées.
 
@@ -29,7 +29,7 @@ Les signes de déshydratation incluent une miction réduite et une bouche sèche
 
 ## Les boissons recommandées
 
-<img src="/assets/images/gingembre.png" alt="Gingembre" class="img-left img-small">
+<img src="/assets/images/gingembre.jpg" alt="Gingembre" class="img-left img-small" width="270" height="203" loading="lazy">
 
 - Tisane de camomille
 - Tisane de menthe
@@ -41,7 +41,7 @@ Les signes de déshydratation incluent une miction réduite et une bouche sèche
 
 ## Les collations
 
-<img src="/assets/images/apple.png" alt="Pomme" class="img-right img-small">
+<img src="/assets/images/apple.jpg" alt="Pomme" class="img-right img-small" width="230" height="147" loading="lazy">
 
 Des collations toutes les 1 à 2 heures aident à stabiliser la glycémie. Il est recommandé de privilégier des sources de glucides complexes à absorption lente, telles que les fruits entiers, le pain de blé entier ou de seigle, le riz brun ou basmati, les pâtes de blé entier, l'avoine, le quinoa ou les légumineuses, plutôt que des aliments sucrés ou raffinés. Au coucher, mangez fortement protéiné (par exemple des noix ou du yaourt).
 
@@ -61,7 +61,7 @@ Selon la médecine traditionnelle chinoise, favorisez les aliments faciles à di
 
 ## Le repos
 
-<img src="/assets/images/sleep.png" alt="Repos" class="img-left img-small">
+<img src="/assets/images/sleep.jpg" alt="Repos" class="img-left img-small" width="280" height="186" loading="lazy">
 
 Le corps subit des changements importants pendant la grossesse. Les femmes qui souffrent de nausées matinales bénéficieront de plus de repos. Écoutez votre corps et accordez-vous des moments de détente.
 

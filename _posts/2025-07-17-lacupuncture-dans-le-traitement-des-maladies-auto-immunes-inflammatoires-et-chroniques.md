@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "L'acupuncture dans le traitement des maladies auto-immunes, inflammatoires et chroniques"
+title: "Acupuncture et maladies auto-immunes"
 date: 2025-07-17
 author: Janie Couture
 description: "L'acupuncture peut accompagner les patients atteints de maladies auto-immunes et chroniques pour améliorer leur qualité de vie."
-image: /assets/images/logo_sun.png
-last_modified_at: 2025-07-17
+image: https://img.youtube.com/vi/EsKr8OHzyUQ/maxresdefault.jpg
+last_modified_at: 2026-07-16
 redirect_from:
   - /2025/07/17/lacupuncture-dans-le-traitement-des-maladies-auto-immunes-inflammatoires-et-chroniques/
 ---
@@ -15,7 +15,7 @@ Les douleurs chroniques affectent profondément le bien-être mental et physique
 Voici une capsule vidéo de l'Ordre des acupuncteurs du Québec :
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/EsKr8OHzyUQ" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/EsKr8OHzyUQ" title="Vidéo : l'acupuncture et les maladies auto-immunes" loading="lazy" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Conditions concernées

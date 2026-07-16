@@ -4,8 +4,8 @@ title: "Améliorer la santé des femmes"
 date: 2025-09-08
 author: Janie Couture
 description: "L'acupuncture accompagne les femmes à chaque étape de leur vie, de la puberté à la ménopause, en passant par la grossesse et la fertilité."
-image: /assets/images/logo_sun.png
-last_modified_at: 2025-09-08
+image: https://img.youtube.com/vi/pDOA3miUsVE/maxresdefault.jpg
+last_modified_at: 2026-07-16
 redirect_from:
   - /2025/09/08/ameliorer-la-sante-des-femmes/
 ---
@@ -13,7 +13,7 @@ redirect_from:
 Voici une capsule vidéo présentée par l'Ordre des acupuncteurs du Québec sur la santé des femmes :
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/pDOA3miUsVE" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/pDOA3miUsVE" title="Vidéo : l'acupuncture et la santé des femmes" loading="lazy" frameborder="0" allowfullscreen></iframe>
 </div>
 
 L'acupuncture accompagne les femmes **à chaque étape de leur cycle de fertilité**.

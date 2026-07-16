@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Les règles d'or pour une alimentation saine d'après la médecine traditionnelle chinoise"
+title: "Alimentation saine et médecine chinoise"
 date: 2025-08-31
 author: Janie Couture
 description: "Découvrez les principes fondamentaux de l'alimentation selon la médecine traditionnelle chinoise pour améliorer votre digestion et votre santé globale."
 image: /assets/images/alimentation-saine.jpeg
 excerpt: "La médecine chinoise définit l'alimentation comme un outil essentiel pour préserver la santé et améliorer la digestion."
-last_modified_at: 2025-08-31
+last_modified_at: 2026-07-16
 redirect_from:
   - /2025/08/31/les-regles-dor-pour-une-alimentation-saine-dapres-la-medecine-traditionnelle-chinoise/
 ---
 
-<img src="/assets/images/alimentation-saine.jpeg" alt="Alimentation saine" class="img-center">
+<img src="/assets/images/alimentation-saine.jpeg" alt="Alimentation saine" class="img-center" width="683" height="1024">
 
 La médecine chinoise définit l'alimentation comme un outil essentiel pour préserver la santé. Les aliments possèdent de nombreuses vertus thérapeutiques et peuvent être utilisés pour maintenir et améliorer la santé.
 
@@ -23,7 +23,7 @@ Respirer profondément pendant les repas favorise l'assimilation des aliments. L
 
 ## Manger dans un environnement émotionnel favorable
 
-<img src="/assets/images/manger-montagnes.jpg" alt="Repas en montagne" class="img-left">
+<img src="/assets/images/manger-montagnes.jpg" alt="Repas en montagne" class="img-left" width="300" height="193" loading="lazy">
 
 Les émotions et le stress ralentissent la digestion. Un système nerveux stressé réduit l'énergie allouée aux fonctions digestives. Mangez calmement dans une ambiance paisible.
 
@@ -39,7 +39,7 @@ La mastication facilite le travail de l'estomac et l'ensemble du processus diges
 
 ## Manger cuit et chaud
 
-<img src="/assets/images/plat.jpeg" alt="Bol de bouillon chaud" class="img-right">
+<img src="/assets/images/plat.jpeg" alt="Bol de bouillon chaud" class="img-right" width="800" height="1200" loading="lazy">
 
 Préférez les aliments cuits (légumes à la vapeur ou sautés) et évitez les crudités et smoothies froids, qui peuvent être plus difficiles à digérer.
 
@@ -51,7 +51,7 @@ Les boissons chaudes en fin de repas humidifient et réchauffent l'estomac. Pré
 
 ## Aliments frais et de saison
 
-<img src="/assets/images/legumes.jpg" alt="Légumes frais" class="img-left">
+<img src="/assets/images/legumes.jpg" alt="Légumes frais" class="img-left" width="400" height="267" loading="lazy">
 
 La fraîcheur est essentielle. Coupez les aliments juste avant leur préparation et consommez-les peu de temps après leur cueillette. Privilégiez les aliments locaux et de saison.
 

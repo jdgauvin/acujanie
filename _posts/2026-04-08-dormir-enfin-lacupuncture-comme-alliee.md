@@ -3,13 +3,13 @@ layout: post
 title: "Dormir enfin : l'acupuncture comme alliée"
 date: 2026-04-08
 author: Janie Couture
-description: "L'acupuncture peut améliorer votre sommeil en quelques séances. Découvrez comment elle agit sur l'insomnie en modulant le système nerveux et les neurotransmetteurs du cycle veille-sommeil."
-image: /assets/images/enfant-dort.png
+description: "L'acupuncture peut améliorer votre sommeil en quelques séances. Découvrez comment elle agit sur l'insomnie en modulant le système nerveux."
+image: /assets/images/enfant-dort.jpg
 excerpt: "Se retourner sans cesse la nuit, voir les heures passer et se réveiller à plat… quel calvaire ! L'acupuncture peut améliorer votre sommeil en quelques séances."
-last_modified_at: 2026-04-08
+last_modified_at: 2026-07-16
 ---
 
-<img src="/assets/images/enfant-dort.png" alt="Enfant dormant paisiblement" class="img-left">
+<img src="/assets/images/enfant-dort.jpg" alt="Enfant dormant paisiblement" class="img-left" width="241" height="161">
 
 Se retourner sans cesse la nuit, voir les heures passer et se réveiller à plat… quel calvaire! L'insomnie est un trouble fréquent qui affecte la qualité de vie. L'humeur et les fonctions cognitives sont également touchées, ternissant le quotidien des personnes qui en souffrent. Bonne nouvelle : l'acupuncture peut améliorer votre sommeil en quelques séances! Elle agit sur le corps en modulant le système nerveux autonome et en influençant la libération de neurotransmetteurs impliqués dans le cycle veille-sommeil.
 
@@ -23,12 +23,12 @@ Voici deux études mettant en lumière l'efficacité de l'acupuncture pour trait
 Par ailleurs, un essai clinique randomisé plus récent (Yin et al., 2017) a évalué l'efficacité de l'acupuncture chez 72 patients souffrant d'insomnie primaire. Après quatre semaines de traitement, les participants ayant reçu de l'acupuncture présentaient une amélioration significative de la sévérité de l'insomnie, ainsi que de l'efficacité et de la durée du sommeil, comparativement au groupe placebo.
 
 </div>
-<img src="/assets/images/lac-coucher-soleil.png" alt="Lac paisible au coucher du soleil">
+<img src="/assets/images/lac-coucher-soleil.jpg" alt="Lac paisible au coucher du soleil" width="231" height="445" loading="lazy">
 </div>
 
 L'acupuncture apparaît donc comme une option sécuritaire et efficace dans la prise en charge de l'insomnie. N'hésitez plus : laissez-vous bercer dans les bras de Morphée après un apaisant traitement d'acupuncture!
 
-<img src="/assets/images/ciel-nuages.png" alt="Ciel bleu avec nuages apaisants" class="img-center">
+<img src="/assets/images/ciel-nuages.jpg" alt="Ciel bleu avec nuages apaisants" class="img-center" width="236" height="153" loading="lazy">
 
 ## Références
 
