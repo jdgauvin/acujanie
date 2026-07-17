@@ -1,33 +1,38 @@
+---
+layout: none
+sitemap: false
+---
 # Acupuncture Janie Couture
 
-> Clinique d'acupuncture à Québec, Charlesbourg-Beauport
+> Clinique d'acupuncture à Québec (secteur Charlesbourg-Beauport) dirigée par Janie Couture, acupuncteure membre de l'Ordre des acupuncteurs du Québec. Traitements pour les douleurs, le stress, les allergies, la fertilité, la grossesse et la santé globale.
 
-## About
+Janie Couture offre des traitements d'acupuncture traditionnelle chinoise pour une clientèle de tous âges : douleurs musculosquelettiques (arthrite, migraines, tendinites, sciatique), stress et anxiété, troubles digestifs et respiratoires, allergies, santé des femmes (fertilité, grossesse, ménopause) et acupuncture pédiatrique.
 
-Janie Couture est acupuncteure membre de l'Ordre des acupuncteurs du Québec. Elle offre des traitements d'acupuncture pour diverses conditions incluant les douleurs musculosquelettiques, le stress, l'anxiété, les troubles digestifs, les allergies, la fertilité et l'accompagnement de grossesse.
+Informations pratiques :
 
-## Services
+- **Adresse** : 1480 Boulevard Louis-XIV, Local 103, Québec, QC G2L 1M3 (Charlesbourg-Beauport)
+- **Téléphone** : 581-991-8654
+- **Courriel** : info@acujanie.com
+- **Heures** : lundi au vendredi, 8h30 à 20h30
+- **Tarif** : 75 $ / heure ; reçus pour assurances (CNESST, SAAQ, IVAC et Anciens Combattants acceptés)
 
-- Acupuncture traditionnelle chinoise
-- Traitement des douleurs (arthrite, migraines, tendinites, sciatique)
-- Gestion du stress et anxiété
-- Santé des femmes (fertilité, grossesse, ménopause)
-- Troubles digestifs et respiratoires
-- Acupuncture pédiatrique
+## Pages principales
 
-## Contact
+- [Accueil](https://acujanie.com/) : présentation de la clinique et de l'approche holistique de l'acupuncture.
+- [Votre acupuncteure](https://acujanie.com/votre-acupuncteure/) : parcours et expertise de Janie Couture, membre de l'Ordre des acupuncteurs du Québec.
+- [Les bienfaits de l'acupuncture](https://acujanie.com/les-bienfaits-de-lacupuncture/) : conditions traitées par l'acupuncture (douleurs, stress, allergies, troubles digestifs, problèmes de peau, et plus).
+- [Articles](https://acujanie.com/articles/) : blogue de conseils sur l'acupuncture, la médecine traditionnelle chinoise et le bien-être.
+- [Contact et tarifs](https://acujanie.com/contact/) : coordonnées, heures d'ouverture, tarifs et assurances acceptées.
+- [Réservation en ligne](https://acujanie.com/reservation-en-ligne/) : prise de rendez-vous en ligne pour une consultation.
 
-- Adresse: 1480 Boulevard Louis-XIV, Local 103, Québec, QC G2L 1M3
-- Téléphone: 581-991-8654
-- Courriel: info@acujanie.com
-- Heures: Lundi-Vendredi 8h30-20h30
+## Articles
 
-## Tarifs
+Chaque article renvoie à sa page ainsi qu'à sa version Markdown brute.
 
-- Consultation: 75$ / heure
-- Reçus pour assurances disponibles
-- CNESST, SAAQ, IVAC, Anciens combattants acceptés
+{% for post in site.posts %}- [{{ post.title | strip }}]({{ post.url | absolute_url }}){% if post.description %} : {{ post.description | strip }}{% endif %} ([Markdown](https://raw.githubusercontent.com/jdgauvin/acujanie/master/{{ post.path | replace: '\', '/' }}))
+{% endfor %}
+## Optional
 
-## Réservation
-
-Réservation en ligne disponible sur le site web.
+- [Fil de nouvelles (Atom)](https://acujanie.com/feed.xml) : flux des derniers articles du blogue.
+- [Plan du site](https://acujanie.com/sitemap.xml) : liste complète des pages indexables du site.
+- [Page Facebook](https://www.facebook.com/JanieCoutureAcupuncture) : actualités et publications de la clinique.
