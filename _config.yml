@@ -49,7 +49,8 @@ contact:
   facebook: "https://www.facebook.com/JanieCoutureAcupuncture"
   price: "75$"
 
-booking_url: "https://script.google.com/macros/s/AKfycbzKEqs3Mg3M4SKEdyFRW840ygD5SpKApjKXaRA2fKRJtPPju9rk9yuUDh50oF3TdO8iig/exec"
+# Online booking comes from MemoDing, which keeps the clinic's agenda and sends the reminders
+memoding_url: "https://acupuncture-janie-couture.memoding.com"
 
 exclude:
   - Gemfile

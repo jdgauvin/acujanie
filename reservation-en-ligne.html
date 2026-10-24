@@ -2,7 +2,7 @@
 layout: default
 title: Réservation en ligne
 image: /assets/images/logo_sun.png
-last_modified_at: 2026-07-16
+last_modified_at: 2026-10-24
 description: Prenez rendez-vous en ligne avec Janie Couture, acupuncteure à Québec. Réservation simple et rapide pour votre consultation d'acupuncture.
 permalink: /reservation-en-ligne/
 ---
@@ -79,11 +79,8 @@ permalink: /reservation-en-ligne/
 
       <div>
         <div class="booking-container">
-          <iframe
-            src="{{ site.booking_url }}"
-            loading="lazy"
-            title="Calendrier de réservation">
-          </iframe>
+          <script src="{{ site.memoding_url }}/js/memoding-reservation.js"></script>
+          <noscript><a href="{{ site.memoding_url }}/reserver" class="btn btn-primary">Prendre rendez-vous</a></noscript>
         </div>
       </div>
     </div>
